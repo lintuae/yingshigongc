@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lintuae.github.io/yingshigongc/sitemap.xml
